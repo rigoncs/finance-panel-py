@@ -25,6 +25,8 @@ uv sync
 # 启动开发服务器
 uv run streamlit run src/finance_panel/app.py
 
+```
+
 ## 项目结构
 
 ```
